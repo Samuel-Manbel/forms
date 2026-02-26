@@ -1,0 +1,33 @@
+h1 {
+    color: rgba(64, 64, 249, 0.954);
+    width: 100%;
+    text-align: center;
+}
+.form {
+    border: 1px rgb(102, 49, 236) solid;
+    border-radius: 4px;
+    /* align-items: center; */
+    
+}
+form {
+    /* display: flex; */
+    padding-left: 10px;
+    padding-bottom: 10px;
+    
+    
+
+    
+    
+    
+}
+input {
+    /* width: 97%; */
+}
+button {
+    border: none;
+    width: 40%;
+    align-content: center;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.479);
+    height: 30px;
+}
